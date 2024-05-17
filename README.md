@@ -1,5 +1,7 @@
-### Hello World! 🤖
+### Hello World! 🤖 
 <!-- SOCIAL MEDIAS LINK -->
+<b> CONTACT ME </b>
+
 <a href="mailto:contato.felipeapolinario@gmail.com">
   <img alt="contact me Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>  
@@ -7,11 +9,17 @@
     <img alt="contact me WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<!-- LANGUAGE ICONS -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg"/>  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powershell.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"/> 
+
+<!-- LANGUAGE ICONS 
+<b> Proeficient languages </b>
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powershell.svg"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"/> 
+UNFINISHED
+-->
 
 <!-- TITLE -->
-My name is Felipe and I'm a Technology Student | 🌐 Enthusiast of 📊 Databases, 🧑‍💻Ethical Hacking 🎮 Game Development and 💻 Shell Scripting
+
+<h2> My name is Felipe and I'm a Technology Student | 🌐 Enthusiast of 📊 Databases, 🧑‍💻Ethical Hacking 🎮 Game Development and 💻 Shell Scripting </h2>
 
 <!-- ABOUT ME -->
 About me
