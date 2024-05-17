@@ -41,7 +41,10 @@ DISCLAIMER: Top languages does not indicate my skill level or something like tha
 <img alt="My stats" src="https://github-readme-stats-felipe-apolinarios-projects.vercel.app/api?username=fadokkx&show_icons=true&theme=dracula"/>
 
 <!-- ADD WAKA TIME -->
+<!--START_SECTION:waka-->
 
+
+<!--END_SECTION:waka-->
 <img alt="My WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=fadokkx"/>
 
 <!-- BACKUP WAKA TIME 
