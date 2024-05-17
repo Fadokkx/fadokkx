@@ -45,7 +45,8 @@ DISCLAIMER: Top languages does not indicate my skill level or something like tha
 <img alt="My WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=fadokkx"/>
 
 <!-- BACKUP WAKA TIME 
-  [![Felipe Apolinário WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadokkx)](https://github.com/fadokkx/github-readme-stats)
--->
+[![Felipe Apolinário WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadokkx)](https://github.com/fadokkx/github-readme-stats)
+
+  
 
 
