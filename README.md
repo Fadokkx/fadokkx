@@ -35,9 +35,8 @@ About me
 
 
 <!-- ADD GITHUB STATS -->    
-DISCLAIMER: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
-
-<img alt="My Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadokkx&&size_weight=2.25&count_weight=2.25&show_icons=true&theme=dracula&border_radius=10"/>
 <img width=390 alt="My GitHub stats" src="https://github-readme-stats-felipe-apolinarios-projects.vercel.app/api?username=fadokkx&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10"/>
-
-
+<!-- ADD MOST LANGUAGE (IN FUTURE)
+DISCLAIMER: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+<img alt="My Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadokkx&&size_weight=2.25&count_weight=2.25&show_icons=true&theme=dracula&border_radius=10"/>
+-->
