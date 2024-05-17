@@ -16,7 +16,7 @@ My name is Felipe and I'm a Technology Student | 🌐 Enthusiast of 📊 Databas
 <!-- ABOUT ME -->
 About me
 
-    📌 My current areas of interest are Backend DEV.
+    📌 My current area of interest are Backend DEV.
     📚 I'm currently focused on learning Hacking ethical, PostgreSQL, Shell Script and C++;
     📎 Fun fact: I love games, like learning anothers cultures and history
     🎯 Learing to made a big project 
