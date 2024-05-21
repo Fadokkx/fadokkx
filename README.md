@@ -33,6 +33,9 @@ About me
     🎯 Learing to made a big project 
     🕸️ Let's connect! I am always open to new job opportunities and networking.
 
+<!-- WakaTime Stats -->
+<a href="https://wakatime.com/@1cf36325-b8a2-4306-aa29-6db3ca86579e"><img src="https://wakatime.com/badge/user/1cf36325-b8a2-4306-aa29-6db3ca86579e.svg" alt="Total time coded since May 16 2024" /></a>
+
 
 <!-- ADD GITHUB STATS -->    
 <img width=390 alt="My GitHub stats" src="https://github-readme-stats-felipe-apolinarios-projects.vercel.app/api?username=fadokkx&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10"/>
