@@ -22,7 +22,7 @@ UNFINISHED
 
 <!-- TITLE -->
 
-<h2> My name is Felipe and I'm a Technology Student | 🌐 Enthusiast of 📊 Databases, 🧑‍💻Ethical Hacking 🎮 Game Development and 💻 Shell Scripting </h2>
+<h2> My name is Felipe and I'm a Technology Student | Enthusiast of Databases 📊, Ethical Hacking and Shell Scripting 💻 </h2>
 
 <!-- ABOUT ME -->
 About me
@@ -30,7 +30,7 @@ About me
     📌 My current area of interest are Backend DEV.
     📚 I'm currently focused on learning Hacking ethical, PostgreSQL, Shell Script, Python and C++;
     📎 Fun fact: I love games, like learning anothers cultures and history
-    🎯 Learing to made a big project 
+    🎯 Learning to made a big project 
     🕸️ Let's connect! I am always open to new job opportunities and networking.
 
 <!-- WakaTime Stats -->
