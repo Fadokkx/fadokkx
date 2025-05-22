@@ -2,7 +2,6 @@
 <!--HEADER-->
 
 ### $ pip install Felipe
----
 <br>
 
  <!-- Seções com animação sequencial -->
