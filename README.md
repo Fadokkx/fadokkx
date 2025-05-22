@@ -8,7 +8,7 @@
 ## Installing About Me.
 <p>Welcome to my profile!<br>
 I'm Felipe, a Junior Software Analyst passionate about self-improvement and coding excellence.
-</p>
+</p><br>
 
 ## Installing Technologies
 <p align="center">
