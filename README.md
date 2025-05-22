@@ -1,45 +1,49 @@
-### Hello World! 🤖 
-<!-- SOCIAL MEDIAS LINK -->
-<b> CONTACT ME </b>
+<div align = "center">
+<!--HEADER-->
 
-<a href="mailto:contato.felipeapolinario@gmail.com">
-  <img alt="contact me Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>  
-<a href="https://wa.link/3qrp50">
-    <img alt="contact me WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+### $ pip install Felipe
+---
+<br>
 
+ <!-- Seções com animação sequencial -->
+## Installing About Me.
+<p>Welcome to my profile!<br>
+I'm Felipe, a Junior Software Analyst passionate about self-improvement and coding excellence.
+</p>
 
-<!-- LANGUAGE ICONS 
-<b> Proeficient languages </b>
+## Installing Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,markdown,java" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,bash,powershell,windows,linux,ubuntu,kali" /><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana,elasticsearch,postman,aws,vscode" /><br/>
+    <!--Redes Sociais // Redes profissionais -->
+    <img src="https://skillicons.dev/icons?i=github,stackoverflow,instagram,twitter,linkedin" /><br/>
+  </a><br><br>
+</p>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powershell.svg"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"/> 
-UNFINISHED
+## Installing Social Links
+  <p>Here are my social links. Follow me so we can stay connected!</p>
+    <a href="mailto:apolinario.f.p@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    </a>  
+    <a href="https://wa.link/3qrp50">
+      <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/felipeapolinario/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://x.com/ImFelipeApolin/">
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/>
+    </a>
+<!--
+    <a href="https://instagram.com/ImFelipeApolin/">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    </a>
 -->
+<br><br>
 
-<!-- CURRENT LEARNING -->
-<!-- <b>Learing Languages</b>
-
-<!-- TITLE -->
-
-<h2> My name is Felipe and I'm a Technology Student | Enthusiast of Databases 📊, Ethical Hacking and Shell Scripting 💻 </h2>
-
-<!-- ABOUT ME -->
-About me
-
-    📌 My current area of interest are Backend DEV.
-    📚 I'm currently focused on learning Hacking ethical, PostgreSQL, Shell Script, Python and C++;
-    📎 Fun fact: I love games, like learning anothers cultures and history
-    🎯 Learning to made a big project 
-    🕸️ Let's connect! I am always open to new job opportunities and networking.
-
+## Installing APIs 
 <!-- WakaTime Stats -->
 <a href="https://wakatime.com/@1cf36325-b8a2-4306-aa29-6db3ca86579e"><img src="https://wakatime.com/badge/user/1cf36325-b8a2-4306-aa29-6db3ca86579e.svg" alt="Total time coded since May 16 2024" /></a>
-
-
-<!-- ADD GITHUB STATS -->    
-<img width=390 alt="My GitHub stats" src="https://github-readme-stats-felipe-apolinarios-projects.vercel.app/api?username=fadokkx&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10"/>
-<!-- ADD MOST LANGUAGE (IN FUTURE)
-DISCLAIMER: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
-<img alt="My Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadokkx&&size_weight=2.25&count_weight=2.25&show_icons=true&theme=dracula&border_radius=10"/>
--->
+</div>
