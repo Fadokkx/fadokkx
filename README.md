@@ -13,11 +13,14 @@ I'm Felipe, a Junior Software Analyst focused on self-improvement and coding exc
 ## Installing Technologies
 <p align="center">
   <a href="https://skillicons.dev">
+    <!--Linguagens-->
     <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,markdown,java" /><br/>
+    <!--Terminaisa e OS-->
     <img src="https://skillicons.dev/icons?i=git,bash,powershell,windows,linux,ubuntu,kali" /><br/>
+    <!-- Ferramentas -->
     <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana,elasticsearch,postman,aws,vscode" /><br/>
     <!--Redes Sociais // Redes profissionais -->
-    <img src="https://skillicons.dev/icons?i=github,stackoverflow,instagram,twitter,linkedin" /><br/>
+    <!-- <img src="https://skillicons.dev/icons?i=github,stackoverflow,instagram,twitter,linkedin" /><br/> -->
   </a><br><br>
 </p>
 
